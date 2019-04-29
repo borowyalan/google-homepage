@@ -30,19 +30,19 @@ button {
     margin-bottom: 20px;
 }
 
-.navbar {
+nav {
     display: flex;
     justify-content: flex-end;
     padding-top: 10px;
     line-height: 35px;
 }
 
-.navbar a {
+nav a {
     padding-right: 5px;
     padding-top: 0px;
 }
 
-.navbar .options {
+nav .options {
     /* background-position-x: -270px; */
     /* background-size: 528px 68px; */
     background: url('//ssl.gstatic.com/gb/images/i2_2ec824b0.png');
@@ -56,7 +56,7 @@ button {
     transform: scale(0.5);
 }
 
-.navbar button {
+nav button {
     margin-top: -4px;
 }
 
