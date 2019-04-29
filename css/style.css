@@ -32,9 +32,8 @@ button {
 
 .navbar {
     display: flex;
-    justify-content: right;
+    justify-content: flex-end;
     padding-top: 10px;
-    text-align: center;
     line-height: 35px;
 }
 
